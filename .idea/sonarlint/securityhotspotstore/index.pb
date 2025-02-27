@@ -7,3 +7,5 @@ U
 %tests/reality-branch-creation.test.ts,a/0/a03162e6fb3fbde267a7f1ec235246b89ea1d8bc
 [
 +contracts/inter-reality-asset-transfer.clar,f/8/f8407af8dd90da2b4a44045bccd132f4ac7c2918
+Z
+*tests/inter-reality-asset-transfer.test.ts,6/a/6ad6a30f744c31245870325561d9f8eb14097363
