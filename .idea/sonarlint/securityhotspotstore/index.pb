@@ -5,3 +5,5 @@ V
 &contracts/reality-branch-creation.clar,d/d/ddf3c5d89a462c8e4faa3f98cb315bd3173f3372
 U
 %tests/reality-branch-creation.test.ts,a/0/a03162e6fb3fbde267a7f1ec235246b89ea1d8bc
+[
++contracts/inter-reality-asset-transfer.clar,f/8/f8407af8dd90da2b4a44045bccd132f4ac7c2918

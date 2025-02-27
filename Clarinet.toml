@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.inter-reality-asset-transfer]
+path = 'contracts/inter-reality-asset-transfer.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.reality-branch-creation]
 path = 'contracts/reality-branch-creation.clar'
 clarity_version = 2
